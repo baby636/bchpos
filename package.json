@@ -68,7 +68,7 @@
     "prop-types": "15.6.1",
     "qrcode-react": "^0.1.16",
     "react": "^16.4.0",
-    "react-bootstrap": "^0.32.3",
+    "react-bootstrap": "^1.6.3",
     "react-dom": "^16.4.0",
     "react-helmet": "5.2.0",
     "react-interval": "^2.0.2",
