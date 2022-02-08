@@ -1,4 +1,4 @@
-FROM node:8.9
+FROM node:8.17.0
 ENV NODE_ENV production
 WORKDIR /usr/src/app
 COPY ["package.json", "package-lock.json*"]
